@@ -1,0 +1,120 @@
+<html>
+<head>
+<title>Current Status</title>
+<link rel="stylesheet" href="style6.css">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+<div class="progress">
+<div class="back1">
+</br></br><h1>About Us</h1></br></br></br></br>
+<p>CITY IN A CAMPUS
+All the facilities of the city - in one campus!
+LPU security
+LPU security
+LPU security
+LPU security
+LPU security
+
+
+Safe and secure residential facility for boys and girls
+The university is committed to zero tolerance to ragging, alcohol, smoking, drugs and disciplinary misconduct. Automated turnstile gates with biometric machines regulate entry & exit to residential facility.
+
+Fee for Residential Facility Fee for Indoor Stadium and Gym Membership Salient Features Important Points
+LPU residence
+LPU residence
+LPU residence
+LPU residence
+LPU residence
+
+
+Clean & Green Environment
+LPU is one of the greenest campuses in the country. The greenery makes for a great learning environment and promotes creativity!
+
+BENEFITS OF STAYING IN HOSTEL
+Amenities & Facilities
+
+24x7 Library Access
+LPU offers a huge Library System with 11 branches. There are more than 43 lakh books and e-books on all subject fields. Library system subscribes number of journals, magazines and newspapers.
+
+
+Utilize Your Precious Time
+The residential faculty & staff provide after-hours guidance and support to the students, in case they need any academic or life advice. Students have opportunity to become independent! Students residing in the campus can earn while studying by taking up part time jobs in labs, library, sales, shopping mall etc.
+
+
+Safe & Secure
+Manned by over 400 full time security officials, thousands of security cameras, LPU is one of the safest campuses in the world. The University has its very own fire station department. LPU also has Turnstile gates at major entry/exit points as well as boom barriers for vehicles ensuring that every movement is monitored.
+
+
+Access of Indoor Sports Stadium
+With facilities like swimming pool, warm up pool, shooting range, squash court, badminton court, a volleyball court, basketball court etc. at 50% subsidized fee.
+
+Student Endorsement’s
+Residential facility at LPU is very authentic and genuine. It offers best residential facilities like 24*7 power supply, Gym, Laundry, Mess, Wi-Fi etc. with value for money. My overall experience here till now is quite amazing.
+
+Customer Testimonails
+Shubham Biswal (2019)
+Balasore - Odisha
+The overall atmosphere of the hostel is calm and peaceful. There are various kinds of facilities available in hostels such as Room service, Saloon, General stores, Canteen etc. For any kind of inconvenience regarding residential facility one can log their request in RMS which will be resolved within few days.
+
+Customer Testimonails
+Nila S. Panicker (2019)
+Konni - Kerala
+LPU’s residential Facilities are indeed exceptionally well organised and maintained. The hostel administration here is very cooperative and caring. When it comes to Home like Healthy stay LPU’s residential Facilities are Number 1.
+
+Customer Testimonails
+Devashish Mani (2019)
+Pathankot - Punjab
+1
+2
+3
+HOSTEL FACILITIES
+IN HOUSE MENTOR SUPPORT
+IN HOUSE MENTOR SUPPORT
+The residential faculty & staff provide after-hours guidance and support to the students, in case they need any academic or life advice.
+
+IN HOUSE MENTOR SUPPORTIN HOUSE MENTOR SUPPORTIN HOUSE MENTOR SUPPORTIN HOUSE MENTOR SUPPORTIN HOUSE MENTOR SUPPORTIN HOUSE MENTOR SUPPORT
+1
+2
+3
+4
+Indoor Stadium
+With facilities like swimming pool, warm up pool, shooting range, squash court, badminton court, volleyball court, basketball court etc. at 50% subsidized fee.
+
+MEDICAL ASSISTANCE
+MEDICAL ASSISTANCE
+The campus has a 24 hours 30 bed hospital which is staffed with resident medical officers, medical lab, dieticians and physiotherapists.
+
+LIBRARY
+STOREYED LIBRARY
+LPU offers a huge Library System with 11 branches. There are more than 43 lakh books and e-books on all subject fields. LPU Library system subscribes number of journals, magazines and newspapers.
+
+APARTMENTS STYLE HOUSING
+APARTMENTS STYLE HOUSING
+Keeping students's requirements in mind, University offers quality residence (offering above average necessities) for their living comforts.
+
+IN-HOUSE LAUNDRY
+IN-HOUSE LAUNDRY
+In house laundry services are available at a nominal charges to students.
+
+Read More 
+MESS PLAN / FOOD
+MESS PLAN / FOOD
+All residential facilities have dining halls that provide good quality and hygienic food four times a day. Over 1 Lakh meals are prepared each day!
+
+Read More 
+EARN WHILE YOU LEARN
+EARN WHILE YOU LEARN
+Become independent! Students residing in the campus can earn while studying by taking up part time jobs in labs, library, sales, shopping mall etc.
+
+Gym Facility Gym Facility Gym Facility Gym Facility 
+1
+2
+Gym Facility
+Special Gym facility is being introduced at three different locations exclusively for hostellers at 50% subsidized fee. In addition to special Gym facility as mentioned above, Open Gym (without charges) is also being created.
+
+</p>
+</div>
+</div>
+</body>
+</html>

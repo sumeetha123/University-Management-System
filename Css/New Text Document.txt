@@ -1,0 +1,18 @@
+*{
+margin: 0;
+padding:0;
+font-family: Century Gothic;
+}
+header{
+background-image:url(../Lpu1.jpg);
+height:100vh;
+bachground-size:cover;
+background-position:center;
+}
+ul{
+float:right;
+list-style-type:none;
+}
+ul li{
+display: inline-block;
+}

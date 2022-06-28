@@ -1,0 +1,92 @@
+body{
+background-image:url(back-img.jpg);
+background-size:cover;
+background-position:center;
+font-family:sans-serif;
+color:#01ab97;
+}
+.progress{
+margin:80px auto;
+}
+h1{
+text-align:center;
+}
+.back1{
+background-color:#000;
+opacity:.9;
+height:500px;
+}
+.progress img{
+width:80px;
+hight:80px;
+margin-bottom:20px;
+}
+ul{
+text-align:center;
+}
+ul li{
+display:inline-block;
+width:200px;
+position:relative;
+}
+ul li .fa{
+background:#ccc;
+width:16px;
+hjeight:16px;
+color:#fff;
+border-radius:50%
+padding:5px;
+}
+ul li .fa::after{
+content:'';
+background:#ccc;
+height:5px;
+width:205px;
+display:block;
+position:absolute;
+left:0;
+top:105px;
+z-index:-1;
+}
+ul li:nth-child(3) .fa{
+background:#148e14;
+}
+ul li:nth-child(3) .fa::after{
+background:#148e14;
+}
+ul li:nth-child(1) .fa,
+ul li:nth-child(2) .fa
+{
+background:#60aa97;
+}
+ul li:nth-child(1) .fa::after,
+ul li:nth-child(2) .fa::after
+{
+background:#60aa97;
+}
+ul li:first-child .fa::after{
+width:105px;
+left:100px;
+}
+ul li:last-child .fa::after{
+width:105px;
+}
+.back{
+position:absolute;
+top:4%;
+right:3%;
+}
+.btn{
+border: 1px solid transparent;
+background-color:#0074D9;;
+border-radius:20px;
+padding:10px 30px;
+color:#fff;
+text-decoration: none;
+transition: 0.6s ease;
+}
+.btn:hover{
+background-color:#fff;
+color:#000;
+opacity:1;
+}
